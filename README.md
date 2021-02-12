@@ -4,9 +4,9 @@ Welcome to my GitHub profile!
 
 I hold a bachelor's degree in Computer Science but computing is not my current profession, I work for 20+ years on R&D in the [Semiconductor Industry](https://en.wikipedia.org/wiki/Semiconductor_industry). On my spare time, I like to acquire knowledge through online courses and work on my personal side projects, which I share here. My current interests are **Artificial Intelligence**, **Deep Learning**, **Computer Vision** and [**Android Apps Development**](https://mohb.dev).
 
-My hobbies are [**photography**](https://haraldoalbergaria.photos) and [**travelling**](https://nos2viajando.net/solo/) and I love to combine both on my vacations. When at home, I like to watch movies and TV shows (I❤️[Star Trek](https://startrek.com/)!).
+My hobbies are [**photography**](https://haraldoalbergaria.photos) and [**travelling**](https://nos2viajando.net/solo) and I love to combine both on my vacations. When at home, I like to watch movies and TV shows (I❤️[Star Trek](https://intl.startrek.com/shows)!).
 
-To know a little more about my professional life and my learning achievements, please visit [**my personal website**](https://haraldofilho.github.io/). I hope you enjoy what you see here, and in case any of my codes be helpful to you, please <a href="mailto:haraldo@mohb.dev">send me a message</a>, I would really like to know!
+To know a little more about my professional life and my learning achievements, please visit [**my personal website**](https://haraldofilho.github.io). I hope you enjoy what you see here, and in case any of my codes be helpful to you, please <a href="mailto:haraldo@mohb.dev">send me a message</a>, I would really like to know!
 
 And that's it.
 
