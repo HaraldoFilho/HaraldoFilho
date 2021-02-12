@@ -15,9 +15,9 @@ And that's it.
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haraldofilho&layout=compact&custom_title=Most%20Used%20Languages&card_width=281&langs_count=9&hide=jupyter%20notebook&exclude_repo=CS-Labs_Unicamp,Knapsack-Problem,CVND_Career-Projects,CVND_Exercises" />
+  <img align="center" src="https://github-readme-stats-one-tau.vercel.app/api/top-langs/?username=haraldofilho&layout=compact&custom_title=Most%20Used%20Languages&card_width=281&langs_count=9&hide=jupyter%20notebook&exclude_repo=CS-Labs_Unicamp,Knapsack-Problem,CVND_Career-Projects,CVND_Exercises,github-readme-stats" />
 </a>
 &nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haraldofilho&custom_title=Repos%20Activity%20Stats&line_height=29&show_icons=true&include_all_commits=true&hide=issues&exclude_repo=CS-Labs_Unicamp,Knapsack-Problem,CVND_Career-Projects,CVND_Exercises,The-Map-Group" />
+  <img align="center" src="https://github-readme-stats-one-tau.vercel.app/api?username=haraldofilho&custom_title=Repos%20Activity%20Stats&line_height=29&show_icons=true&include_all_commits=true&hide=issues&exclude_repo=CS-Labs_Unicamp,Knapsack-Problem,CVND_Career-Projects,CVND_Exercises,The-Map-Group,github-readme-stats" />
 </a>
