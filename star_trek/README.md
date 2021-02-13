@@ -10,11 +10,11 @@ My ranks for all TV Shows and Films
 
 [**The Original Series** (1966-1969)](https://www.themoviedb.org/tv/253-star-trek?language=en-US)
 
-[**Voyager** (1995–2001)](https://www.themoviedb.org/tv/1855-star-trek-voyager?language=en-US)
+[**Deep Space Nine** (1993–1999)](https://www.themoviedb.org/tv/580-star-trek-deep-space-nine?language=en-US)
 
 [**Picard** (2020-)](https://www.themoviedb.org/tv/85949-star-trek-picard?language=en-US)
 
-[**Deep Space Nine** (1993–1999)](https://www.themoviedb.org/tv/580-star-trek-deep-space-nine?language=en-US)
+[**Voyager** (1995–2001)](https://www.themoviedb.org/tv/1855-star-trek-voyager?language=en-US)
 
 [**Enterprise** (2001–2005)](https://www.themoviedb.org/tv/314-star-trek-enterprise?language=en-US)
 
@@ -50,3 +50,4 @@ My ranks for all TV Shows and Films
 
 [**Nemesis** (2002)](https://www.themoviedb.org/movie/201-star-trek-nemesis?language=en-US)
 
+<br>
