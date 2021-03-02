@@ -46,5 +46,5 @@ And that's it.
 </a>
 &nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://wakatime.com/@HaraldoFilho">
-  <img align="top" src="https://github-readme-stats-git-mycards.haraldofilho.vercel.app/api/wakatime?username=HaraldoFilho&layout=compact&custom_title=Languages%20Used%20over%20the%20Last%207%20Days&cache_seconds=1800" />
+  <img align="top" src="https://github-readme-stats-git-mycards.haraldofilho.vercel.app/api/wakatime?username=HaraldoFilho&layout=compact&custom_title=Week%20Coding%20Stats&cache_seconds=1800" />
 </a>
