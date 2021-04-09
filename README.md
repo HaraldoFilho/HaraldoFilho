@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I hold a bachelor's degree in Computer Science but programming is not my current profession, I work for 20+ years on R&D in the [Semiconductor Industry](https://en.wikipedia.org/wiki/Semiconductor_industry). On my spare time, I like to acquire knowledge through online courses and work on my personal side projects, which I share here. My current interests are **Artificial Intelligence**, **Deep Learning**, **Computer Vision** and [**Android Apps Development**](https://mohb.dev). 
+I hold a bachelor's degree in Computer Science but programming is not my current occupation, I work for 20+ years on R&D in the [Semiconductor Industry](https://en.wikipedia.org/wiki/Semiconductor_industry). On my spare time, I like to acquire knowledge through online courses and work on my personal side projects, which I share here. My current interests are **Artificial Intelligence**, **Deep Learning**, **Computer Vision** and [**Android Apps Development**](https://mohb.dev). 
 
 These are the languages and technologies that I've used at some moment (blue=using):
 
