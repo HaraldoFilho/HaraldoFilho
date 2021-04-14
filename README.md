@@ -33,8 +33,6 @@ These are the languages and technologies that I've used at some moment (blue=usi
 
 My hobbies are [**photography**](https://haraldoalbergaria.photos) and [**travelling**](https://nos2viajando.net/solo) and I love to combine both on my vacations. When at home, I like to watch movies and TV shows (I❤️[Star Trek](star_trek)!).
 
-To know a little more about my professional life and my learning achievements, please visit [**my personal webpage**](https://haraldofilho.github.io).
-
 And that's it.
 
 [🖖](https://haraldofilho.github.io/pages/spock/) Live long and prosper!
