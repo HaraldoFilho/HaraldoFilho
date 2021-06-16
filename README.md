@@ -40,7 +40,7 @@ And that's it.
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats-haraldofilho.vercel.app/api/top-langs/?username=haraldofilho&layout=compact&custom_title=Most%20Used%20Languages&card_width=313&langs_count=9&hide=jupyter%20notebook&exclude_repo=CS-Labs_Unicamp,Knapsack-Problem,The-Map-Group,my-github-readme-stats&cache_seconds=1800" />
+  <img align="top" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=haraldofilho&layout=compact&custom_title=Most%20Used%20Languages&card_width=313&langs_count=9&hide=jupyter%20notebook&exclude_repo=CS-Labs_Unicamp,Knapsack-Problem,The-Map-Group,my-github-readme-stats&cache_seconds=1800" />
 </a>
 &nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://wakatime.com/@HaraldoFilho">
