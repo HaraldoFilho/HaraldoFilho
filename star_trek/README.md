@@ -10,6 +10,8 @@ My ranks for all TV Shows and Films
 
 [**The Original Series** (1966-1969)](https://www.themoviedb.org/tv/253-star-trek?language=en-US)
 
+[**Strange New Worlds** (2022-)](https://www.themoviedb.org/tv/103516-star-trek-strange-new-worlds?language=en-US)
+
 [**Picard** (2020-)](https://www.themoviedb.org/tv/85949-star-trek-picard?language=en-US)
 
 [**Voyager** (1995–2001)](https://www.themoviedb.org/tv/1855-star-trek-voyager?language=en-US)
