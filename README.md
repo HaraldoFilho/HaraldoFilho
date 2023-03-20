@@ -1,41 +1,31 @@
-### Hi there 👋
-
-Welcome to my GitHub profile!
-
 I hold a bachelor's degree in Computer Science but programming is not my current occupation, I work for 20+ years on R&D in the [Semiconductor Industry](https://en.wikipedia.org/wiki/Semiconductor_industry). On my spare time, I like to acquire knowledge through online courses and work on my personal side projects, which I share here. My current interests are **Artificial Intelligence**, **Deep Learning**, **Computer Vision** and [**Android Apps Development**](https://mohb.dev). 
 
-These are the languages and technologies that I've used at some moment (blue=using):
+These are the languages and technologies that I've used at some moment:
 
-![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-blue?style=flat-square&logo=html&logoColor=white)
-![Perl](https://img.shields.io/badge/-Perl-blue?style=flat-square&logo=perl)
-![Shell](https://img.shields.io/badge/-Shell-blue?style=flat-square&logo=shell)
-![Kotlin](https://img.shields.io/badge/-Kotlin-blue?style=flat-square&logo=kotlin)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css)
+![Java](https://img.shields.io/badge/-Java-lightgrey?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-lightgrey?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-lightgrey?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-lightgrey?style=flat-square&logo=html&logoColor=white)
+![Perl](https://img.shields.io/badge/-Perl-lightgrey?style=flat-square&logo=perl)
+![Shell](https://img.shields.io/badge/-Shell-lightgrey?style=flat-square&logo=shell)
+![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey?style=flat-square&logo=kotlin)
+![CSS](https://img.shields.io/badge/-CSS-lightgrey?style=flat-square&logo=css)
 ![C](https://img.shields.io/badge/-C-lightgrey?style=flat-square&logo=c)
 ![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat-square&logo=mysql)
 ![Verilog](https://img.shields.io/badge/-Verilog-lightgrey?style=flat-square&logo=mysql)
 ![VHDL](https://img.shields.io/badge/-VHDL-lightgrey?style=flat-square&logo=vhdl)
 ![Prolog](https://img.shields.io/badge/-Prolog-lightgrey?style=flat-square&logo=prolog)
 ![Lisp](https://img.shields.io/badge/-Lisp-lightgrey?style=flat-square&logo=lisp)<br>
-![Linux](https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=linux)
-![Fedora](https://img.shields.io/badge/-Fedora-blue?style=flat-square&logo=fedora)
-![Git](https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-blue?style=flat-square&logo=android)
-![Anaconda](https://img.shields.io/badge/-Anaconda-blue?style=flat-square&logo=anaconda)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-blue?style=flat-square&logo=jupyter)
-![PyTorch](https://img.shields.io/badge/-PyTorch-blue?style=flat-square&logo=pytorch)
+![Linux](https://img.shields.io/badge/-Linux-lightgrey?style=flat-square&logo=linux)
+![Fedora](https://img.shields.io/badge/-Fedora-lightgrey?style=flat-square&logo=fedora)
+![Git](https://img.shields.io/badge/-Git-lightgrey?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat-square&logo=github)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-lightgrey?style=flat-square&logo=android)
+![Anaconda](https://img.shields.io/badge/-Anaconda-lightgrey?style=flat-square&logo=anaconda)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-lightgrey?style=flat-square&logo=jupyter)
+![PyTorch](https://img.shields.io/badge/-PyTorch-lightgrey?style=flat-square&logo=pytorch)
 ![TensooFrFLow](https://img.shields.io/badge/-TensorFlow-lightgrey?style=flat-square&logo=tensorflow)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-lightgrey?style=flat-square&logo=bitbucket)
-
-My hobbies are [**photography**](https://haraldoalbergaria.photos) and [**travelling**](https://nos2viajando.net/solo) and I love to combine both on my vacations. When at home, I like to watch movies and TV shows (I❤️[Star Trek](star_trek)!).
-
-And that's it.
-
-[🖖](https://haraldofilho.github.io/pages/spock/) Live long and prosper!
 
 <hr>
 
