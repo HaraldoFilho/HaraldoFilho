@@ -12,7 +12,7 @@ My ranks for all TV Shows and Films
 
 [**Strange New Worlds** (2022-)](https://www.themoviedb.org/tv/103516-star-trek-strange-new-worlds?language=en-US)
 
-[**Picard** (2020-)](https://www.themoviedb.org/tv/85949-star-trek-picard?language=en-US)
+[**Picard** (2020-2023)](https://www.themoviedb.org/tv/85949-star-trek-picard?language=en-US)
 
 [**Voyager** (1995–2001)](https://www.themoviedb.org/tv/1855-star-trek-voyager?language=en-US)
 
