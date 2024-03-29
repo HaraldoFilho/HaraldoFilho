@@ -1,4 +1,4 @@
-I hold a bachelor's degree in Computer Science but programming is not my current occupation, I work for 20+ years on R&D in the [Semiconductor Industry](https://en.wikipedia.org/wiki/Semiconductor_industry). Outside work, my main interests in the field of computing are **Artificial Intelligence**, **Deep Learning**, **Computer Vision** and **Android Apps Development**. 
+I hold a bachelor's degree in Computer Science but programming is not my current occupation, I work for 20+ years on R&D in the [Semiconductor Industry](https://en.wikipedia.org/wiki/Semiconductor_industry). Outside work, I like to write scripts to automate tasks of my everyday life and my main interests in the field of computing are **Artificial Intelligence**, **Deep Learning**, **Computer Vision** and **Android Apps Development**. Here, I share some side projects I've done on these topics. 
 
 These are the languages and technologies that I've used at some moment:
 
