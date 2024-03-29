@@ -14,6 +14,8 @@ These are the languages and technologies that I've used at some moment:
 ![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat-square&logo=mysql)
 ![Verilog](https://img.shields.io/badge/-Verilog-lightgrey?style=flat-square&logo=mysql)
 ![VHDL](https://img.shields.io/badge/-VHDL-lightgrey?style=flat-square&logo=vhdl)
+![TCL](https://img.shields.io/badge/-TCL-lightgrey?style=flat-square&logo=tcl)
+![TK](https://img.shields.io/badge/-TK-lightgrey?style=flat-square&logo=tk)
 ![Prolog](https://img.shields.io/badge/-Prolog-lightgrey?style=flat-square&logo=prolog)
 ![Lisp](https://img.shields.io/badge/-Lisp-lightgrey?style=flat-square&logo=lisp)<br>
 ![Linux](https://img.shields.io/badge/-Linux-lightgrey?style=flat-square&logo=linux)
