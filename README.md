@@ -36,5 +36,5 @@ These are the languages and technologies that I've used at some moment:
 </a>
 &nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://wakatime.com/@HaraldoFilho">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime/?username=HaraldoFilho&layout=compact&custom_title=Week%20Coding%20Stats&card_width=459&langs_count=8&cache_seconds=1800" />
+  <img align="top" src="https://github-readme-stats.anuraghazra1.vercel.app/api/wakatime/?username=HaraldoFilho&layout=compact&custom_title=Week%20Coding%20Stats&card_width=459&langs_count=8&cache_seconds=1800" />
 </a>
