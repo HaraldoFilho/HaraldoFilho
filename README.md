@@ -36,5 +36,5 @@ These are the languages and technologies that I've used at some moment:
 </a>
 &nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://wakatime.com/@HaraldoFilho">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaraldoFilho&layout=compact&custom_title=Week%20Coding%20Stats&card_width=463&langs_count=8&hide=jupyter%20notebook&exclude_repo=CS-Labs_Unicamp,Knapsack-Problem,The-Map-Group,my-github-readme-stats&cache_seconds=1800" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaraldoFilho&layout=compact&custom_title=Week%20Coding%20Stats&card_width=462&langs_count=8&hide=jupyter%20notebook&exclude_repo=CS-Labs_Unicamp,Knapsack-Problem,The-Map-Group,my-github-readme-stats&cache_seconds=1800" />
 </a>
