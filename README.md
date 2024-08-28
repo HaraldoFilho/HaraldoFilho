@@ -1,6 +1,6 @@
 I hold a bachelor's degree in Computer Science but programming is not my current occupation, I work for 20+ years on R&D in the [Semiconductor Industry](https://en.wikipedia.org/wiki/Semiconductor_industry). Outside work, I like to write scripts to automate tasks of my everyday life and my main interests in the field of computing are **Artificial Intelligence**, **Deep Learning**, **Computer Vision** and **Android Apps Development**.
 
-These are the languages and technologies that I've used at some moment:
+These are the languages and technologies which I've used at some moment:
 
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
