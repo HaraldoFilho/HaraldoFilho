@@ -29,6 +29,7 @@ These are the languages and technologies which I've used at some moment:
 ![TensooFrFLow](https://img.shields.io/badge/-TensorFlow-lightgrey?style=flat-square&logo=tensorflow)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-lightgrey?style=flat-square&logo=bitbucket)
 
+<!--
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -38,3 +39,4 @@ These are the languages and technologies which I've used at some moment:
 <a href="https://wakatime.com/@HaraldoFilho">
   <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=HaraldoFilho&layout=compact&langs_count=6&hide=prolog&custom_title=Last%20Year%20Coding%20Stats&cache_seconds=1800" />
 </a>
+-->
