@@ -2,7 +2,6 @@ I hold a bachelor's degree in Computer Science but programming is not my current
 
 These are the languages and technologies which I've used at some moment:
 
-![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-blue?style=flat-square&logo=html&logoColor=white)
@@ -10,7 +9,8 @@ These are the languages and technologies which I've used at some moment:
 ![Perl](https://img.shields.io/badge/-Perl-blue?style=flat-square&logo=perl)
 ![Shell](https://img.shields.io/badge/-Shell-blue?style=flat-square&logo=shell)
 ![TCL](https://img.shields.io/badge/-TCL-blue?style=flat-square&logo=tcl)
-![TK](https://img.shields.io/badge/-TK-blue?style=flat-square&logo=tk)
+![TK](https://img.shields.io/badge/-TK-lightgrey?style=flat-square&logo=tk)
+![Java](https://img.shields.io/badge/-Java-lightgrey?style=flat-square&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-lightgrey?style=flat-square&logo=kotlin)
 ![C](https://img.shields.io/badge/-C-lightgrey?style=flat-square&logo=c)
 ![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat-square&logo=mysql)
@@ -22,7 +22,7 @@ These are the languages and technologies which I've used at some moment:
 ![Fedora](https://img.shields.io/badge/-Fedora-blue?style=flat-square&logo=fedora)
 ![Git](https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-blue?style=flat-square&logo=android)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-lightgrey?style=flat-square&logo=android)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-lightgrey?style=flat-square&logo=anaconda)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-lightgrey?style=flat-square&logo=jupyter)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-lightgrey?style=flat-square&logo=pytorch)
